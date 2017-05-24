@@ -40,7 +40,6 @@ RUN \
   echo 'GCC_CONFIG += --disable-multilib' >> config.mak && \
   echo 'GCC_CONFIG += --disable-libquadmath --disable-decimal-float' >> config.mak && \
   make install TARGET=arm-linux-musleabihf && \
-  make install TARGET=arm-linux-musleabi && \
   make install TARGET=aarch64-linux-musl && \
   make install TARGET=mips-linux-musl && \
   make install TARGET=x86_64-linux-musl && \

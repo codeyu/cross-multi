@@ -21,7 +21,6 @@ Clone the repo and run `make` to build. Run `make shell` to test the instance.
 
 - Linux
     * arm-linux-musleabihf
-    * arm-linux-musleabi
     * aarch64-linux-musl
     * mips-linux-musl
     * x86_64-linux-musl
