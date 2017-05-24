@@ -15,7 +15,7 @@ Install docker and pull the image by `docker pull privatelo/cross-multi`.
 
 ## How to compile your own version
 
-Install docker and run `make` to build. Run `make shell` to test the instance.
+Clone the repo and run `make` to build. Run `make shell` to test the instance.
 
 ## Supported target triplets
 
